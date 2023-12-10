@@ -1,6 +1,6 @@
 # website-parents
 
-This template should help get you started developing with Vue 3 in Vite.
+Website portal for my parents, inspire and make similar portal for your parents too :-) 
 
 ## Recommended IDE Setup
 
