@@ -41,12 +41,11 @@ div.item-description {
 }
 
 .block-portal_link {
-  width: 400px;
+  width: 300px;
   margin: 10px auto;
   padding: 10px;
   display: block;
   background-color: #eef;
-  width: 400px;
   border: 1px solid black;
   color: black;
   text-decoration: none;
