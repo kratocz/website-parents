@@ -41,7 +41,7 @@ div.item-description {
 }
 
 .block-portal_link {
-  width: 280px;
+  width: 290px;
   margin: 10px auto;
   padding: 10px;
   display: block;
