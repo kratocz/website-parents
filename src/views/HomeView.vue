@@ -3,7 +3,7 @@
     <ul class="list-unstyled">
       <li><RouterLink class="button" to="/addresses">Adresy na internetu</RouterLink></li>
       <li><a class="button" href="https://www.google.cz/">Hledání na internetu</a></li>
-      <li><RouterLink class="button" to="/how-to-control-iphone">Základy ovládání iPhone</RouterLink></li>
+      <!-- <li><RouterLink class="button" to="/how-to-control-iphone">Základy ovládání iPhone</RouterLink></li> -->
     </ul>
   </main>
 </template>
