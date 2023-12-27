@@ -30,3 +30,6 @@ coverage
 *.tsbuildinfo
 
 /.vite/
+
+/public/.~lock.websiteSections.tsv#
+
