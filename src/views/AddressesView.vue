@@ -77,7 +77,7 @@ export default {
   },
   methods: {
     load() {
-      axios({method: "GET", "url": "/websiteSections.tsv"}).then(result => {
+      axios({method: "GET", "url": "/websiteSections.tsv?timestamp=" + Date.now()}).then(result => {
         let rows = result.data.split("\n");
         rows.shift();
         this.websites = [];
