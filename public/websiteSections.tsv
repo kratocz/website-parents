@@ -1,10 +1,6 @@
 Úroveň záhlaví	Nadpis	Odkaz	Popis
 1	Vyhledávání		
 	Google	https://google.cz/	lze hledat webové stránky i obrázky, obvykle je nutné vyzkoušet několik nalezených stránek, které jsou první ve výsledcích vyhledávání; příklady, co zadat jako klíčová slova: ibuprofen leták, zámečník Praha, předvolební průzkum
-1	Vyhledávání zboží
-	Tesco	https://nakup.itesco.cz/groceries/cs-CZ/	Potraviny, které Tesco může přivést až domů
-	Heuréka.cz	https://heureka.cz/	Hledání zboží v internetových obchodech v ČR
-	Zboží.cz	https://zbozi.cz/	Hledání zboží v internetových obchodech v ČR
 1	Noviny
 	ČT24	https://ct24.ceskatelevize.cz/
 	Novinky	https://www.novinky.cz/
@@ -12,13 +8,17 @@
 	iDNES	https://www.idnes.cz/
 	Český rozhlas	https://www.irozhlas.cz/
 	VoxPot	https://www.voxpot.cz/
-1	Pronájem městských bytů
-		https://www.taborcz.eu/pronajem-bytu/ds-1135	město Tábor - pronájem bytů
+1	Vyhledávání zboží
+	Tesco	https://nakup.itesco.cz/groceries/cs-CZ/	Potraviny, které Tesco může přivést až domů
+	Heuréka.cz	https://heureka.cz/	Hledání zboží v internetových obchodech v ČR
+	Zboží.cz	https://zbozi.cz/	Hledání zboží v internetových obchodech v ČR
 1	Lékaři a léky
 	MUDr. Audy	http://mudraudy.cz/	otvírací doba, upozornění na plánovanou dovolenou, kontaktní informace
 	Příbalové letáky	https://pribalovy-letak.cz/	příbalové letáky k lékům, nutné najít lék naprosto přesně včetně obsahu účinné látky
 	Domácí lékárnička	https://www.google.com/search?q=dom%C3%A1c%C3%AD+l%C3%A9k%C3%A1rni%C4%8Dka	co by měla obsahovat domácí lékárnička
 1	Diety
+1	Pronájem městských bytů
+		https://www.taborcz.eu/pronajem-bytu/ds-1135	město Tábor - pronájem bytů
 2	Nemoc dna		
 	Obecně o dně	https://www.nemoc-dna.eu/	
 	Tabulka potravin podle purinů	https://www.nemoc-dna.eu/tabulka-potravin-podle-obsahu-purinu-ndn-1225-11299.html	
